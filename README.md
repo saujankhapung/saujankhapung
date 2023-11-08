@@ -3,4 +3,4 @@
 
 I will be using this platform to upload my codes. 
 My Personal Website is https://saujankhapung.com.np 
-You can find me here https://www.youtube.com/channel/UCCXCyAPBxwFd8vu9U1wNHOQ
+My Bloggin website is https://saujankhapung3.wordpress.com
