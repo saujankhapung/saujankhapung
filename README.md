@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Saujan.
-- 👀 I’m interested in R and Python. My field is Economics and Econometrics.
+- 👀 I use R, STATA, SAS, and Python. My field is Economics and economics research.
 
 I will be using this platform to upload my codes. 
 My Personal Website is https://saujankhapung.com.np 
